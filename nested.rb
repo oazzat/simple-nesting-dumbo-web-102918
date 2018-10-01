@@ -90,7 +90,7 @@ def adding_matz
 end
 
 def changing_alan
-	alans_new_info = "GUI"
+	#alans_new_info = "GUI"
 	programmer_hash = 
  		{
         :grace_hopper => {
