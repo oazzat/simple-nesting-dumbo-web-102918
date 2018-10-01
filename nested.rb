@@ -129,6 +129,6 @@ def adding_to_dennis
         }
      }
      
-     return programmer_hash [:dennis_ritchie] [:languages] 
+     return programmer_hash 
 
 end
