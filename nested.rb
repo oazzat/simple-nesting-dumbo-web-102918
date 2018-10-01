@@ -98,7 +98,7 @@ def changing_alan
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "GUI",
+          :known_for => {},
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
